@@ -1,0 +1,13 @@
+{
+    "server": {
+        "server_ip" : "127.0.0.1",
+        "server_port": "9900"
+    },
+    "client": {
+        "ip": "127.0.0.1",
+        "port": 12200
+    },
+    "applicationname": {
+        "apps": "xxx-interface:8090,8091;xxx-web:8090,8091"
+    }
+}

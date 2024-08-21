@@ -1,0 +1,13 @@
+{
+    "server" : {
+        "server_ip" : "127.0.0.1",
+        "server_port": "9900"
+    },
+    "mysql": {
+        "mysqlhost" : "127.0.0.1",
+        "mysql_port": "3306",
+        "mysql_user": "root",
+        "password": "root@123",
+        "database" : "xgmonitor"
+    }
+}
